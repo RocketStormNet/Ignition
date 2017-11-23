@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Send SMS!</string>
+  <string name="app_name">Ignition</string>
+  <string name="add">+</string>
+</resources>
